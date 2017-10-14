@@ -1,0 +1,8 @@
+{
+	"discovery": {
+		"url_template": "https://sos.exo.io/schu-aci/debian-{version}-{os}-{arch}.{ext}"
+	},
+	"pubkey": {
+		"url": "https://schu.io/0xD52EEE542ABF47AA.gpg.asc"
+	}
+}
